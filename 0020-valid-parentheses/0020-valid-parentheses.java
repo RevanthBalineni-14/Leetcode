@@ -3,24 +3,23 @@ class Solution {
     public boolean isValid(String s) {
         Stack<String> st =new Stack<>();
         for(int i=0;i<s.length();i++){
-            if(st.isEmpty()){
-                st.push(""+s.charAt(i));
-            }
-            else{  
-                if((""+s.charAt(i)).equals("(")||(""+s.charAt(i)).equals("[")||(""+s.charAt(i)).equals("{")){
-                    st.push(""+s.charAt(i));
+            
+                if((s.charAt(i)+"").equals("(")){
+                    st.push(")");
                     continue;
                 }
-                String head=st.pop();
-                if(head.equals("(")&&(""+s.charAt(i)).equals(")"))
+                else if((s.charAt(i)+"").equals("[")){
+                    st.push("]");
                     continue;
-                else if(head.equals("[")&&(""+s.charAt(i)).equals("]"))
+                }
+                else if((s.charAt(i)+"").equals("{")){
+                    st.push("}");
                     continue;
-                else if(head.equals("{")&&(""+s.charAt(i)).equals("}"))
-                    continue;
-                else 
+                }
+                else if(st.isEmpty())
                     return false;
-            }
+                else if(!(s.charAt(i)+"").equals(st.pop()))
+                    return false;
         }
         if(st.isEmpty())
             return true;
