@@ -21,8 +21,6 @@ public class Solution {
             return false;
         while(slow!=fast){
             slow=slow.next;
-            if(slow==null)
-                return false;
             if(fast.next==null)
                 return false;
             fast=fast.next.next;
