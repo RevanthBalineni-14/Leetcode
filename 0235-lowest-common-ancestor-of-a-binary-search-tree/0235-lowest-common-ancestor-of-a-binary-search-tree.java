@@ -33,14 +33,12 @@ class Solution {
         int common=root.val;
         if(sp.isEmpty()||sq.isEmpty())
             return new TreeNode(common);
-        System.out.println(sp.peek()+" "+sq.peek());
         while(sp.peek().equals(sq.peek())){
             common=sp.peek();
             sp.pop();
             sq.pop();
             if(sp.isEmpty()||sq.isEmpty())
-            return new TreeNode(common);
-//            System.out.println("'"+sp.peek()+"' '"+sq.peek()+"' "+(sp.peek()==sq.peek()));
+                return new TreeNode(common);
         }        
         return new TreeNode(common);
     }
