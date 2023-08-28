@@ -16,9 +16,10 @@ class Solution {
         int sum=0;
         for(int i=0;i<=25;i++){
             sum+=sarr[i]/2+carr[i]/2;
-            if(sarr[i]%2==1||carr[i]%2==1)
-                hasextra=1;
         }
-        return sum*2+hasextra;
+        if(sum*2<s.length())
+            return sum*2+1;
+        else 
+            return sum*2;
     }
 }
