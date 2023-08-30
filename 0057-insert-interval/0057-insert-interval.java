@@ -4,15 +4,17 @@ class Solution {
         if(intervals.length<1)
             l.add(newInterval);
         
-        for(int i=0;i<intervals.length;i++){
-            if(newInterval[1]<intervals[0][0]){
+        if(intervals.length>0&&newInterval[1]<intervals[0][0]){
                 int[][] finalarr=new int[intervals.length+1][2];
                 finalarr[0]=newInterval;
                 for(int k=0;k<intervals.length;k++){
                     finalarr[k+1]=intervals[k];
                 }
                 return finalarr;
-            }
+        }
+        
+        for(int i=0;i<intervals.length;i++){
+            
             if((intervals[i][0]<=newInterval[0]&&newInterval[1]<=intervals[i][1])||
                (intervals[i][0]<=newInterval[1]&&newInterval[1]<=intervals[i][1])||
                (intervals[i][0]<=newInterval[0]&&newInterval[0]<=intervals[i][1])||
