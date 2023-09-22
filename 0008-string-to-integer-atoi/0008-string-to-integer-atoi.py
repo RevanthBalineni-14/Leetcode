@@ -7,16 +7,13 @@ class Solution:
         s=s.strip()
         if(len(s)==0):
             return y
-        print(s)
         start=0
         if(s[0]=='-'):
             sign=-1 
             start=1
         elif(s[0]=='+'):
             start=1
-        print(y,sign)
         for i in range(start, len(s)):
-            print(s[i])
             if (ord(s[i])>=48 and ord(s[i])<=57):
                 digit = ord(s[i])-48
                 if(sign ==-1 and (y>abs(MIN)//10 or y==abs(MIN)//10 and digit>=8)):
@@ -29,5 +26,4 @@ class Solution:
             else:
                 return y*sign
 
-        print(y,sign)
         return y*sign
