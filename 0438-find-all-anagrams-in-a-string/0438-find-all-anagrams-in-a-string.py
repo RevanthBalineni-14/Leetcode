@@ -4,7 +4,6 @@ class Solution:
         arr = [0]*26
         for i in p:
             arr[ord(i)-97]+=1
-        print(arr)
         def check(array):
             for i in range(len(array)):
                 if array[i]!=0:
