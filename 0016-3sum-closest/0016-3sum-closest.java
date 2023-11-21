@@ -9,14 +9,15 @@ class Solution {
                 j=i+1;
                 k=nums.length-1;
                 while(j<k){
-                    int sum = nums[i]+nums[j]+nums[k];
-                    if (Math.abs(target-res)>Math.abs(target-sum))
-                          res = sum;
+                    
                     if ((nums[i]+nums[j]+nums[k])==target){
                         res=nums[i]+nums[j]+nums[k];
                         break;
                     }
-                    else if(nums[i]+nums[j]+nums[k]<target)
+                    int sum = nums[i]+nums[j]+nums[k];
+                    if (Math.abs(target-res)>Math.abs(target-sum))
+                          res = sum;
+                    if(nums[i]+nums[j]+nums[k]<target)
                             j++;
                     else
                             k--;
