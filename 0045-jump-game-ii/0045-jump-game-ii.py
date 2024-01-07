@@ -10,6 +10,6 @@ class Solution(object):
         dp[n-1] = 0
 
         for i in range(n-2, -1 ,-1):
-            dp[i] = min(dp[i : min(nums[i]+i+1, n)]) + 1
+            dp[i] = min(dp[i : nums[i]+i+1]) + 1
         
         return dp[0]
