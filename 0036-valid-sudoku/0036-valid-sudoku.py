@@ -5,8 +5,9 @@ class Solution(object):
         :rtype: bool
         """
         res=[]
-        for i, row in enumerate(board):
-            for j, val in enumerate(row):
+        for i in range(9):
+            for j in range(9):
+                val = board[i][j]
                 if val != "." :
                     if (i, val) in res or (val, j) in res or (i//3, j//3, val) in res:
                         return False
