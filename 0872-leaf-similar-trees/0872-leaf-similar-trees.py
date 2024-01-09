@@ -25,8 +25,7 @@ class Solution(object):
         res1 = res
         res = []
         recurse(root2)
-        res2 = res
-        if res1 == res2:
+        if res1 == res:
             return True
         else:
             return False
