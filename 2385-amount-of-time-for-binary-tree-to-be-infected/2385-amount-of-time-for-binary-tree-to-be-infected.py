@@ -18,7 +18,6 @@ class Solution(object):
                 return False
 
             if root.val == start:
-                print("Hoi", depth(root.left), depth(root.right))
                 res[0] = max(depth(root.left), depth(root.right))
                 return True
 
