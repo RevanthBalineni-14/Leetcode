@@ -8,12 +8,4 @@ class Solution(object):
         for i in s:
             mydic[i] = mydic.get(i,0) + 1
         
-        res = ""
-        
-        for i in range(mydic.get('1',0)-1):
-            res += "1"
-        
-        for i in range(mydic.get('0',0)):
-            res += "0"
-        
-        return res+"1"
+        return "1"*(mydic.get('1',0)-1)+"0"*mydic.get('0',0)+"1"
