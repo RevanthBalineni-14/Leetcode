@@ -6,4 +6,4 @@ class Solution:
                 hs.remove(i)
             else:
                 hs.add(i)
-        return len(s)-len(hs) + 1 if len(hs)>0 else len(s)
+        return len(s)-len(hs) + (1 if len(hs)>0 else 0)
