@@ -3,20 +3,21 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        l,r = 0, len(nums)-1
-
-        def swap(i, j):
-            temp=nums[i]
-            nums[i]=nums[j]
-            nums[j]=temp
-        
-        i=0
-        while i<=r:
-            if  nums[i]==0:
-                swap(i,l)
-                l+=1
-            elif nums[i]==2:
-                swap(i,r)
-                r-=1
-                i-=1
-            i+=1
+        zero = 0
+        seeker  = 0
+        two = len(nums)-1
+        while seeker <= two :
+            if nums[seeker] == 0:
+                temp = nums[zero]
+                nums[zero] = nums[seeker]
+                nums[seeker] = temp
+                zero += 1
+                seeker +=1
+            elif nums[seeker] == 1:
+                seeker +=1
+            else:
+                temp = nums[seeker]
+                nums[seeker]=nums[two]
+                nums[two]=temp
+                two -= 1
+                
