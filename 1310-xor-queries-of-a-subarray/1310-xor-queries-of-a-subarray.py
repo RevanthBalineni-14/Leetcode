@@ -8,16 +8,6 @@ class Solution:
             curr = curr^arr[i]
             prefix.append(curr)
             
-        for i in queries:
-            
-            if i[0]<(i[1]-i[0]+1):
-                curr = prefix[i[1]]
-                for j in range(i[0]):
-                    curr = curr^arr[j]
-                res.append(curr)
-            else:
-                curr = 0
-                for j in range(i[0], i[1]+1):
-                    curr = curr ^ arr[j]        
-                res.append(curr)
+        for i in queries:       
+            res.append(prefix[i[0]-1]^prefix[i[1]] if i[0]-1>-1 else prefix[i[1]])
         return res
