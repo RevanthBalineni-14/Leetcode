@@ -15,7 +15,7 @@ class Solution:
                     temp = st.pop()
                     if temp == 't':
                         has_t = True
-                    elif temp =='f':
+                    else:
                         has_f = True
                 op = st.pop()
                 if op == '&':
