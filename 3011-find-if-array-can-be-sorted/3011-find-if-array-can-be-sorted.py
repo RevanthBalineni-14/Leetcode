@@ -21,6 +21,7 @@ class Solution:
                 cmax = i
            
         tracker.append([cmin, cmax])
+        print(tracker)
         for i in range(1, len(tracker)):
             if tracker[i-1][1] > tracker[i][0]:
                 return False
