@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0518-coin-change-ii) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0338-counting-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
