@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0191-number-of-1-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -155,4 +156,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
