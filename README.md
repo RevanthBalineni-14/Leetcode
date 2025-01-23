@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -111,10 +112,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Tree
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
 |  |
@@ -126,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Counting
 |  |
@@ -139,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0572-subtree-of-another-tree](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Matrix
 |  |
 | ------- |
