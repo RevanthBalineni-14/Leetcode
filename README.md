@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -165,10 +167,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1558-course-schedule-iv) |
