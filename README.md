@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sorting
 |  |
 | ------- |
