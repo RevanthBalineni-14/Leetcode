@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0474-ones-and-zeroes](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0952-word-subsets](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1524-string-matching-in-an-array](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [1160-letter-tile-possibilities](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Prefix Sum
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0952-word-subsets](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -163,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
