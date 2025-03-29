@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2792-neighboring-bitwise-xor](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2832-find-the-longest-equal-subarray](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Simulation
@@ -366,11 +369,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -382,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -395,4 +401,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
