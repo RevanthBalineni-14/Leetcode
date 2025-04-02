@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2832-find-the-longest-equal-subarray](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3447-clear-digits) |
 ## Data Stream
 |  |
