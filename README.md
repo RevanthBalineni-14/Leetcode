@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0474-ones-and-zeroes](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0768-partition-labels](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0768-partition-labels) |
