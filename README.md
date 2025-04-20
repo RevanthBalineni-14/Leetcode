@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0518-coin-change-ii) |
+| [0797-rabbits-in-forest](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0768-partition-labels](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0952-word-subsets) |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -404,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
