@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2145-grid-game) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -388,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -421,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0768-partition-labels](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -453,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack
 |  |
@@ -471,4 +476,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2050-count-good-numbers) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
