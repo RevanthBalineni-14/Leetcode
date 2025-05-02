@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0474-ones-and-zeroes](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0768-partition-labels](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0518-coin-change-ii) |
+| [0868-push-dominoes](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -432,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
