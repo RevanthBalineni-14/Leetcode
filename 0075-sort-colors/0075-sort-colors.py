@@ -3,21 +3,16 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        zero = 0
-        seeker  = 0
-        two = len(nums)-1
-        while seeker <= two :
-            if nums[seeker] == 0:
-                temp = nums[zero]
-                nums[zero] = nums[seeker]
-                nums[seeker] = temp
-                zero += 1
-                seeker +=1
-            elif nums[seeker] == 1:
-                seeker +=1
+        zerop, twop = 0, len(nums)-1
+        pointer = 0
+        while pointer<=twop:
+            if nums[pointer] == 0:
+                nums[zerop], nums[pointer] = nums[pointer], nums[zerop]
+                zerop += 1
+                pointer += 1
+            elif nums[pointer] == 1:
+                pointer += 1
             else:
-                temp = nums[seeker]
-                nums[seeker]=nums[two]
-                nums[two]=temp
-                two -= 1
-                
+                nums[pointer], nums[twop] = nums[twop], nums[pointer]
+                twop -= 1
+        
