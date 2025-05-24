@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0213-house-robber-ii](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0213-house-robber-ii) |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0075-sort-colors) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -462,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
