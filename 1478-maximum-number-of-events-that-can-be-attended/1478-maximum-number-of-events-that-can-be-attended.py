@@ -5,7 +5,7 @@ class Solution:
         h = []
         curr = 0
         res = 0
-        for i in range(1, 10001):
+        for i in range(1, 100001):
             while h and h[0]<i:
                 heapq.heappop(h)
             while curr<len(events) and events[curr][0]==i:
