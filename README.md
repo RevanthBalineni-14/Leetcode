@@ -428,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1500-count-largest-group) |
@@ -563,4 +564,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
