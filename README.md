@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2478-longest-nice-subarray](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2832-find-the-longest-equal-subarray](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
@@ -552,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2832-find-the-longest-equal-subarray](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
