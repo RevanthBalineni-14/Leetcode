@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Prefix Sum
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2079-delete-duplicate-folders-in-system](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2145-grid-game) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0338-counting-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -579,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Recursion
