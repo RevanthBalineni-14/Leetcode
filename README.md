@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0518-coin-change-ii) |
 | [0868-push-dominoes](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0952-word-subsets](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0952-word-subsets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0338-counting-bits) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
