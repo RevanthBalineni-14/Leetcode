@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0190-reverse-bits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -468,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -607,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
