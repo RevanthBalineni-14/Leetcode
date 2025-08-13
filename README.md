@@ -471,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RevanthBalineni-14/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -611,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/RevanthBalineni-14/Leetcode/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/RevanthBalineni-14/Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/RevanthBalineni-14/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
